@@ -1,0 +1,4 @@
+{
+    "extends": "./tsconfig.json",
+    "include": ["electron", "postcss.config.js", "tailwind.config.js"]
+}
